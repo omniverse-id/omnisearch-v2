@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "models": {
+    "byMode": {
+      "quick": {
+        "speed": {
+          "id": "gemini-2.5-flash",
+          "name": "Gemini 2.5 Flash",
+          "provider": "Google",
+          "providerId": "google",
+          "providerOptions": {
+            "google": {
+              "reasoningEffort": "low",
+              "reasoningSummary": "auto"
+            }
+          }
+        },
+        "quality": {
+          "id": "gemini-2.5-flash",
+          "name": "Gemini 2.5 Flash",
+          "provider": "Google",
+          "providerId": "google",
+          "providerOptions": {
+            "google": {
+              "reasoningEffort": "low",
+              "reasoningSummary": "auto"
+            }
+          }
+        }
+      },
+      "adaptive": {
+        "speed": {
+          "id": "gemini-2.5-flash",
+          "name": "Gemini 2.5 Flash",
+          "provider": "Google",
+          "providerId": "google",
+          "providerOptions": {
+            "google": {
+              "reasoningEffort": "low",
+              "reasoningSummary": "auto"
+            }
+          }
+        },
+        "quality": {
+          "id": "gemini-2.5-flash",
+          "name": "Gemini 2.5 Flash",
+          "provider": "Google",
+          "providerId": "google",
+          "providerOptions": {
+            "google": {
+              "reasoningEffort": "medium",
+              "reasoningSummary": "auto"
+            }
+          }
+        }
+      }
+    },
+    "relatedQuestions": {
+      "id": "gemini-2.5-flash",
+      "name": "Gemini 2.5 Flash",
+      "provider": "Google",
+      "providerId": "google"
+    }
+  }
+}
